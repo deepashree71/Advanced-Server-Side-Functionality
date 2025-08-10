@@ -1,0 +1,6 @@
+.env 
+
+node_modules
+# Ignore Docker files
+Dockerfile
+docker-compose.yml
